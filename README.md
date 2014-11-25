@@ -13,7 +13,7 @@ A wrapper around [fontawesome-markers](https://github.com/nathan-muir/fontawesom
 new google.maps.Marker({
     map: map,
     icon: {
-        path: FA.markers.EXCLAMATION_CIRCLE,
+        path: fontawesome.markers.EXCLAMATION_CIRCLE,
         scale: 0.5,
         strokeWeight: 0.2,
         strokeColor: 'black',
